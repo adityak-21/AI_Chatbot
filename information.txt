@@ -61,3 +61,11 @@ Bridge Tournaments in 2024
 
 Conclusion
 Bridge is a game of skill, strategy, and partnership. With practice and experience, you can enhance your abilities and enjoy the rich complexities of this timeless card game. Enjoy playing Bridge in 2024 and may your hands be ever favorable.
+
+Hello, I am Chanchal Dass. At the age of sixteen, I have started playing contract bridge.
+I have conceptualized and developed the dassbridge app to automate the entire tournament.
+It is for both playing online and offline tournaments.
+The main purpose of this app is to conduct offline tournaments that can be played using smartphones, laptops, and tablets.
+It can be used tournaments between 1 to 50 pairs of players. It can be used for teaching contract bridge.
+There is provision for chatting with the player where one can send messages for demonstration purposes.
+It can be used for playing rubber bridge.

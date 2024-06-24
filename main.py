@@ -39,8 +39,8 @@ class ChatBot():
   template = """
   You are a seer. These Human will ask you a questions about Bridge Card Game. Use following piece of context to answer the question. 
   If you don't know the answer, just say you don't know. 
-  You answer with short, precise and concise answer. Your answer must end withing 200 words.
-
+  You answer with short, precise and concise answer. Your answer must end withing 200 words. \n
+  Context: {context} \n
   Question: {question} \n
   Answer: 
 
