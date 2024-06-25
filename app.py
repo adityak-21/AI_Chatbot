@@ -19,8 +19,12 @@ def ask():
     try:
         user_input = request.form['user_input']
         response = bot.rag_chain.invoke(user_input)
+        start_marker = "Answer: "
+        start_index = response.find(start_marker) + len(start_marker)
+        answer = response[start_index:].strip()
         print(f"Hello")
-        return jsonify({"response": response})
+        # return jsonify({"response": response})
+        return jsonify({"response": answer})
     except Exception as e:
         # Log the exception to debug
         print(f"Exception here: {str(e)}")
